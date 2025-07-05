@@ -23,13 +23,13 @@ This project was a **collaborative effort** that showcased our combined skills i
 
 ## 📸 Project Image
 
-![Pulse Sensor Circuit](circuit image 1.jpg)
-![Pulse Sensor Circuit](circuit image 2.jpg)
-![Pulse Sensor Circuit](circuit image 3.jpg)
-![Pulse Sensor Circuit](circuit image 4.jpg)
-![Pulse Sensor Circuit](circuit image 5.jpg)
-![Pulse Sensor Circuit](circuit image 6.jpg)
-![Pulse Sensor Circuit](circuit image 7.jpg)
+![Pulse Sensor Circuit](circuit-image-1.jpg)
+![Pulse Sensor Circuit](circuit-image-2.jpg)
+![Pulse Sensor Circuit](circuit-image-3.jpg)
+![Pulse Sensor Circuit](circuit-image-4.jpg)
+![Pulse Sensor Circuit](circuit-image-5.jpg)
+![Pulse Sensor Circuit](circuit-image-6.jpg)
+![Pulse Sensor Circuit](circuit-image-7.jpg)
 
 
 ## My Role
